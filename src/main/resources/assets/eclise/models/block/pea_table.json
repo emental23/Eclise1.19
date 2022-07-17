@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "eclise:block/oak_planks",
+    "east": "eclise:block/pea_table_side",
+    "north": "eclise:block/pea_table_front",
+    "particle": "eclise:block/pea_table_front",
+    "south": "eclise:block/pea_table_side",
+    "up": "eclise:block/pea_table_top",
+    "west": "eclise:block/pea_table_front"
+  }
+}

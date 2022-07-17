@@ -1,0 +1,25 @@
+{
+  "item.minecraft.potion.effect.paralyze_potion": "Potion of Paralyze",
+  "item.minecraft.splash_potion.effect.paralyze_potion": "Splash Potion of Paralyze",
+  "item.minecraft.lingering_potion.effect.paralyze_potion": "Lingering Potion of Paralyze",
+
+  "item.eclise.pea": "Pea",
+  "item.eclise.goo_pea": "Goo_Pea",
+  "item.eclise.ice_pea": "Pea",
+  "block.eclise.pea_block": "Block of Pea",
+  "item.eclise.cooked_pea": "Smoked Pea",
+  "item.eclise.electric_pea": "Electric Pea",
+  "item.eclise.shadow_pea": "Shadow Pea",
+  "item.eclise.pea_seeds": "Pea Seeds",
+  "block.eclise.pea_table": "Pea Table",
+  "block.eclise.ice_pea_block": "Block of Ice Pea",
+  "entity.minecraft.villager_pea_veteran": "Pea Veteran",
+
+
+  "itemGroup.eclise.pea": "Eclise Items",
+
+
+  "block.eclise.pea_crop": "Eggplant Crop",
+
+  "effect.eclise.paralyze": "Paralyze"
+}

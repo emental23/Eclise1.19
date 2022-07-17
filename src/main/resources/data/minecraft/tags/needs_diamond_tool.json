@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "eclise:pea_block",
+    "eclise:ice_pea_block",
+    "eclise:pea_table"
+  ]
+}

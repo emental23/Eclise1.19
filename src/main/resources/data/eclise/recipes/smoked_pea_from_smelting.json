@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.33,
+  "group": "eclise",
+  "ingredient": {
+    "item": "eclise:pea"
+  },
+  "result": "eclise:cooked_pea"
+}

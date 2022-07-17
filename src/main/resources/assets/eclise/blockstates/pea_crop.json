@@ -1,0 +1,11 @@
+{
+  "variants":{
+    "age=0": { "model": "eclise:block/pea_stage0"},
+    "age=1": { "model": "eclise:block/pea_stage1"},
+    "age=2": { "model": "eclise:block/pea_stage2"},
+    "age=3": { "model": "eclise:block/pea_stage3"},
+    "age=4": { "model": "eclise:block/pea_stage4"},
+    "age=5": { "model": "eclise:block/pea_stage5"},
+    "age=6": { "model": "eclise:block/pea_stage6"}
+  }
+}
